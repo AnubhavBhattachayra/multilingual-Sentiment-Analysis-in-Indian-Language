@@ -145,5 +145,5 @@ train_test_split = "80/20"
 - **Co-authors**: A. Saikia, R. Choudhury, **Anubhav Bhattacharya**
 
 *Note from Anubhav Bhattacharya: I served as a co-author on this paper during my research internship under Dr. S. Ranbir Singh at IIT Guwahati. I am currently pursuing an M.Tech in CSE at Rajiv Gandhi Institute of Petroleum Technology.*
-- [LinkedIn](#) *(Add your LinkedIn URL here)*
-- [GitHub](#) *(Add your GitHub URL here)*
+- [LinkedIn](#) *https://www.linkedin.com/in/anubhav-bhattacharya-b463ab23a/*
+- [GitHub](#) *https://github.com/AnubhavBhattachayra*
